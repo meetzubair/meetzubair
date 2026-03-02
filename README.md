@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Senior full-stack engineer with **7+ years of experience** building scalable SaaS platforms, AI-powered applications, and automation systems.
+Senior full-stack engineer with **10+ years of experience** building scalable SaaS platforms, AI-powered applications, and automation systems.
 
 I specialize in **Node.js ecosystems, modern frontend frameworks, cloud-native architectures, and generative AI integrations**.
 
